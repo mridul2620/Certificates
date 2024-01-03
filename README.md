@@ -1,10 +1,10 @@
 Welcome to the Certificate Repository! This repository serves as a centralized location for storing and showcasing my technical certificates. Whether you're curious about my professional development or interested in specific skills, you'll find a comprehensive collection of certificates here.
 
-**Contents**
+## Contents
 
 The repository is organized into folders based on the categories of certificates. Feel free to explore and navigate through the directories to find certificates related to specific technologies, courses, or achievements.
 
-**Categories**
+## Categories
 
 - *Programming Languages:* Certificates related to programming languages and frameworks.
   
